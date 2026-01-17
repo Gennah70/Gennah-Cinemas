@@ -10,18 +10,18 @@
            <p class="a" value="1"> GENNAH CINEMAS, ACCRRA <BR>
                 MALL, GHANA</p>
                 <img src="image.jpg" height="300px" width="width=page" alt="Tcket">
-                <p>
+                
                     <H3>so much ENTERTAINMENT.<H3><br>
                     <h3>Box Office/Enquiry:</h3>(0023) 534711470<br>
                     <h3> Sales Execution:</h3>(0023) 554239787<br>
                     <h3>Business Manager:</h3>(0023) 537411470<br>
-                    <h3> Merketing/Advert:</h3>(0023) 505349844
-                </p>
-                <p>
+                    <h3> Merketing/Advert:</h3>(0023) 505349844<br>
+                
+                
                   <a href="buyme.html"><img src="book.jpeg" height="300px" width="500px" alt="BOOK NOW"><a>
-                </p>
+                
                 <p class="">
-                    Stremlining Your Silverbir Cinemas Experience: A Guie<br>
+                    Stremlining Your Silverbir Cinemas Experience: A Guide<br>
                     to Account Deletion
                 </p>
                 <p class="b">Download Our Moble App:<br>
@@ -42,7 +42,8 @@
                 </P>
 
 
-        </body><hr>
+        </body>
+        <hr>
         <footer class="f"><p>&copy;copyright 2026 Gennah Cinemas. Developed By Gennah</p>
             <br><p class="g">Cimemas</p><br>
             <p class="h">Privacy Policy Terms of us Ste Map</p><footer>
