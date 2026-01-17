@@ -42,7 +42,7 @@
                 </P>
 
 
-        </body>
+    
         <hr>
         <footer class="f"><p>&copy;copyright 2026 Gennah Cinemas. Developed By Gennah</p>
             <br><p class="g">Cimemas</p><br>
